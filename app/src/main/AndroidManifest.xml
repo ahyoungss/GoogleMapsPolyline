@@ -24,7 +24,7 @@
 
             android:name="com.google.android.geo.API_KEY"
 
-            android:value="AIzaSyCLKgCEukfSfg-E1_qoY1Rbgt9M6jEUVOE" />
+            android:value="AIzaSyCzRz_A9J-JduCbLfCLSFoLHKs2syTesCI" />
 
 
         <activity
@@ -36,6 +36,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+
 
         <service
             android:name=".LocationService"
